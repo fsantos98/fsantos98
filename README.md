@@ -122,9 +122,7 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 <br/>
 
-<a href="https://www.chess.com/member/dam98" target="_blank">
-  <img src="https://img.shields.io/badge/Chess.com-dam98-6c9c3a?style=for-the-badge&logo=lichess&logoColor=white" alt="Chess.com dam98 badge">
-</a>
+[![Chess.com](https://img.shields.io/badge/Chess.com-dam98-6c9c3a?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/dam98)
 
 </div>
 
