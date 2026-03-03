@@ -80,13 +80,19 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fsantos98&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsantos98&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fsantos98&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fsantos98&theme=github-light&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsantos98&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%" alt="Activity Graph" />
+</picture>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fsantos98&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="520" />
+![GitHub stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffsantos98&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/fsantos98?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Followers)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/fsantos98?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Stars&affiliations=OWNER)
 
 </div>
 
