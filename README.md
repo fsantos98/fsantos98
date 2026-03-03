@@ -108,6 +108,26 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 ---
 
+### ♟️ Chess Stats
+
+<div align="center">
+
+*When I'm not writing code, I'm losing pieces on the board* 😅
+
+<br/>
+
+<a href="https://www.chess.com/member/dam98">
+  <img src="https://chess.alesc.me/blink/chessdotcom/dam98?mode=bullet,blitz&months=3" alt="Chess.com Stats — dam98" />
+</a>
+
+<br/>
+
+[![Chess.com](https://img.shields.io/badge/Chess.com-dam98-6c9c3a?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/dam98)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🤝 Let's Connect!
