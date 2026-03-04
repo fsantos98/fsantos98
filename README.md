@@ -1,31 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Hey%20there!%20I'm%20fsantos98%20%F0%9F%91%8B&fontSize=36&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20corner%20of%20GitHub&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+things+one+commit+at+a+time+%F0%9F%9A%80;Turning+coffee+into+code+since+'98+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=fsantos98&fontSize=36&fontColor=58a6ff&fontAlignY=35&animation=fadeIn" width="100%" />
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-```yaml
-name: fsantos98
-location: 🌍 Planet Earth
-currently: Building cool stuff & breaking things (on purpose... mostly)
-interests:
-  - 💡 Solving problems with code
-  - 🔧 Tinkering with new technologies
-  - 🎯 Turning ideas into reality
-  - 🌱 Growing every day as a developer
-motto: "Code is like humor. When you have to explain it, it's bad."
-fun_fact: I mass-produce bugs so QA never runs out of work 🐛
-```
+I'm a developer who spends most of my time writing code, breaking things, and occasionally fixing them. I work with Python, JavaScript, and whatever else the project calls for. I like keeping things simple and working rather than clever and mysterious.
 
 ---
 
-### 🛠️ Tech Toolbox
+### Tech stack
 
 <div align="center">
 
@@ -76,7 +63,7 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -98,7 +85,7 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 ---
 
-### 🎲 Random Dev Quote
+### Random Dev Quote
 
 <div align="center">
 
@@ -108,11 +95,11 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 ---
 
-### ♟️ Chess Stats
+### Chess Stats
 
 <div align="center">
 
-*When I'm not writing code, I'm losing pieces on the board* 😅
+*When I'm not writing code, I'm losing pieces on the board*
 
 <br/>
 
@@ -130,17 +117,11 @@ fun_fact: I mass-produce bugs so QA never runs out of work 🐛
 
 <div align="center">
 
-### 🤝 Let's Connect!
-
 [![GitHub](https://img.shields.io/badge/GitHub-fsantos98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fsantos98)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=fsantos98&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/><br/>
-
-**💬 Feel free to reach out — I don't byte!** 🦇
 
 </div>
 
